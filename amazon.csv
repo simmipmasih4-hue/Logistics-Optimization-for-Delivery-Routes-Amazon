@@ -1,0 +1,21 @@
+Route_ID,Start_Location,Avg_Delivery_Delay_Days,On_Time_Delivery_Percentage,Avg_Traffic_Delay_Min
+R005,"New Jessica",5.00,53.33,26.00
+R004,Ramosside,5.10,50.00,3.00
+R013,"South Johnville",4.41,47.06,38.00
+R012,"West Calvinview",4.83,33.33,29.00
+R002,"South Brianchester",4.73,68.18,22.00
+R020,Juliestad,5.88,29.41,23.00
+R008,"South Davidborough",5.44,68.75,34.00
+R011,Lowemouth,5.55,55.00,25.00
+R017,"Port Tammybury",6.29,42.86,8.00
+R014,"North Edward",5.62,61.54,58.00
+R007,Aaronhaven,5.75,56.25,51.00
+R006,"Lake Robinhaven",4.82,63.64,42.00
+R003,"East Amy",4.50,60.00,11.00
+R015,"South Jenniferfurt",6.33,50.00,29.00
+R009,Bellfurt,4.88,62.50,46.00
+R010,"North Aliceside",5.25,55.00,40.00
+R019,"Lake Oscarfurt",5.62,69.23,37.00
+R016,"Lake Kathrynchester",5.42,75.00,8.00
+R001,"New Aimeechester",5.00,60.00,36.00
+R018,"Lake Jessicastad",5.40,60.00,11.00
